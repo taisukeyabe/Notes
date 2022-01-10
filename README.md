@@ -8,6 +8,7 @@ TODOをチェックできるアプリ
 ・Python 3.9.9
 ・django 4.0
 ・Flutter 2.8.1
+・SQLite
 
 # 機能一覧
 ・投稿
